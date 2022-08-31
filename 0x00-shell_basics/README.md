@@ -1,2 +1,1 @@
-script that prints the absolute path name of the curre
-nt working directory
+Display the contents list of your current directory.
